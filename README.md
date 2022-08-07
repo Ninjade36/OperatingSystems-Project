@@ -1,6 +1,6 @@
 # OperatingSystems-Project
-Operating Systems Project
-by:Ade Dokhan
+
+By:Ade Dokhan
 
 Introduction:
 in this Project i made a grade server that storest grades for all students and allows clients to read and modify the grades,there is 2 types of clients and each client has different privileges and access to files. 
