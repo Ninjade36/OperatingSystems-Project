@@ -4,6 +4,7 @@ by:Ade Dokhan
 
 Introduction:
 in this Project i made a grade server that storest grades for all students and allows clients to read and modify the grades,there is 2 types of clients
+
 -1)student client that can only read his grade
 
 -2)a Teaching Assistant that can read all of the grades and modify them.
