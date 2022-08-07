@@ -11,4 +11,3 @@ in this Project i made a grade server that storest grades for all students and a
 
 so i created user mode applications,TCP Server-Client from scratch using C programing lanuage the communicates through sockets for each server with additional features such as server getting commands from the client and checks privileges for this client,reads from specific files and serves the client back.
 
-The Client server application: 
