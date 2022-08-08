@@ -11,5 +11,5 @@ in this Project i made a grade server that stores grades for students and allows
 
 so i created user mode applications,TCP Server-Client from scratch using C programing lanuage the communicates through sockets for each server with additional features such as server getting commands from the client and checks privileges for this client,reads from specific files and serves the client back.
 
-<h1> detailed explination about each application is attached in the repository
+<h3> detailed explination about each application is attached in the repository
 
